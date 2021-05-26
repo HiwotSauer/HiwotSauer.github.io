@@ -1,0 +1,26 @@
+h1{
+  color:brown;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  
+}
+h2{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif
+
+}
+p{
+  text-align: left;
+ 
+}
+.backgroun{
+  color: green;
+}
+.center{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+p{
+  text-align: jus;
+}
