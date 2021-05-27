@@ -8,8 +8,8 @@
   </head>
     ![Hiwot Selfie](https://user-images.githubusercontent.com/47074350/119833647-45968e80-becd-11eb-830d-37fd21bc98ce.jpg)
   <body>
-    <h1>Hiwot Sauer</h1>
-    <h2>Full stack Developer</h2>
+    #Hiwot Sauer
+    ##Full stack Developer
     <p>I am Hiwot Sauer, and my dream is to become a full-stack developer. I enjoy coding. There are always new things to learn in technology. I studied computer science at Northern Virginia Community College and Software engineering at Thinkful. </p>
 <h3>In my free time, I love to do a lot of things.</h3>
 <ul>
