@@ -10,7 +10,7 @@
   <body>
     <h1>Hiwot Sauer</h1>
     <h2>Full stack Developer</h2>
-  ![Hiwot Selfie](https://user-images.githubusercontent.com/47074350/119872917-fa42a700-bef1-11eb-8ef6-5e363a84c0d2.jpg)
+  ![](images/Hiwot%20Selfie)
     <p>I am Hiwot Sauer, and my dream is to become a full-stack developer. I enjoy coding. There are always new things to learn in technology. I studied computer science at Northern Virginia Community College and Software engineering at Thinkful. </p>
 <h3>In my free time, I love to do a lot of things.</h3>
 <ul>
