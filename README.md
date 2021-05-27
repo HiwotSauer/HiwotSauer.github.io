@@ -10,7 +10,7 @@
   <body>
     <h1>Hiwot Sauer</h1>
     <h2>Full stack Developer</h2>
-    <img src="image/My pic.jpg" alt =" " width="500"class="center">
+    ![](https://picc.io/p/TGMEVpM.jpg)
     <p>I am Hiwot Sauer, and my dream is to become a full-stack developer. I enjoy coding. There are always new things to learn in technology. I studied computer science at Northern Virginia Community College and Software engineering at Thinkful. </p>
 <h3>In my free time, I love to do a lot of things.</h3>
 <ul>
