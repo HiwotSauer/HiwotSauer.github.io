@@ -18,7 +18,7 @@
   <li>Even if I am not that good at swimming, I love playing in the water with my children.</li>
   <li>Cooking is therapy for me.</li>
   </ul>
-<h3>I have three short term goals</h4>
+<h3>I have three short term goals</h3>
 <ol>
     <li>Become the best full-stack developer</li>
     <li>Travel the world</li>
