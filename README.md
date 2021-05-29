@@ -17,7 +17,6 @@
     <li> Start and finish my software engineering course at Thinkful with great success. </li>
   
   </ol>
-  <h5>Feel free to contact me on my Github and replit which are 
-    located below </h5>
+  <h5>Feel free to contact me on my Github and replit which are located below </h5>
     <a href="https://www.linkedin.com/in/hiwot-sauer-8a532020b/" target="_blank">@Linkedin</a>
 
