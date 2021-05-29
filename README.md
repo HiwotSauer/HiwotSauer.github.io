@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
 <h1>Hiwot Sauer</h1>
 <h2>Fullstack Developer</h2>
 
@@ -17,5 +27,8 @@
     <li> Start and finish my software engineering course at Thinkful with great success. </li>
   </ol>
   <h5>Feel free to contact me on my Github and linkedin which are located below </h5>
+  
     <a href="https://www.linkedin.com/in/hiwot-sauer-8a532020b/" target="_blank">@Linkedin</a>
-
+    <script src="script.js"></script>
+  </body>
+</html>
