@@ -18,5 +18,4 @@
     <li> Start and finish my software engineering course at Thinkful with great success. </li>
   </ol>
   <h5>Feel free to contact me on my Github and linkedin which are located below </h5>
- <script src="script.js"></script>
-  
+ 
